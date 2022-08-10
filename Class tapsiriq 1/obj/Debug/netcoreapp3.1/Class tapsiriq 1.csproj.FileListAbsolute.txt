@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.exe
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.deps.json
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.dll
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\bin\Debug\netcoreapp3.1\Class tapsiriq 1.pdb
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.dll
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.pdb
+C:\Users\LENOVO\Desktop\class tapsiriq 1\Class tapsiriq 1\obj\Debug\netcoreapp3.1\Class tapsiriq 1.genruntimeconfig.cache
